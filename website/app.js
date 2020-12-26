@@ -3,7 +3,7 @@
 const button = document.querySelector('#generate');
 const feeling = document.getElementById('feelings');
 const zip = document.querySelector('#zip');
-const apiKey = '2355a2b859c12189c628fa4935806e6d&units=imperial';
+const apiKey = '2355a2b859c12189c628fa4...';
 const url = 'https://api.openweathermap.org/data/2.5/weather?zip=';
 
 // Create a new date instance dynamically with JS
